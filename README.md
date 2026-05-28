@@ -1,7 +1,7 @@
 # 🧁 Sweet Crumbs Bakery Website
 
 ## 📌 Student Information
-Name: Your Name  
+Name:   Dikeledi Molokomme
 Student Number: Your Student Number  
 Course: Your Course Name  
 
