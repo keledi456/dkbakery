@@ -2,8 +2,8 @@
 
 ## 📌 Student Information
 Name:   Dikeledi Molokomme
-Student Number: Your Student Number  
-Course: Your Course Name  
+Student Number: st10471875  
+Course: WEDE 5020 PART2
 
 ---
 
